@@ -1,6 +1,6 @@
 http://example.com/bangumis/index.html
-http://example.com/bilibili/all.json
 http://example.com/bilibili/config.json
+http://example.com/bilibili/all.json
 http://example.com/bilibili/wantWatch/0.json
 http://example.com/bilibili/watched/0.json
 http://example.com/link/index.html
