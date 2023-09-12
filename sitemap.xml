@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/post/4896de77.html</loc>
+    <loc>https://guiyinlun.com/about/index.html</loc>
+    
+    <lastmod>2023-09-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guiyinlun.com/post/4896de77.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://guiyinlun.com/resource/index.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/resource/index.html</loc>
+    <loc>https://guiyinlun.com/post/36997b1b.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/36997b1b.html</loc>
+    <loc>https://guiyinlun.com/post/ac3ba24e.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/ac3ba24e.html</loc>
+    <loc>https://guiyinlun.com/post/829e67e9.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/829e67e9.html</loc>
+    <loc>https://guiyinlun.com/post/8675909c.html</loc>
     
     <lastmod>2023-09-11</lastmod>
     
@@ -56,16 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/8675909c.html</loc>
-    
-    <lastmod>2023-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://guiyinlun.com/tags/index.html</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://guiyinlun.com/link/index.html</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bangumis/index.html</loc>
+    <loc>https://guiyinlun.com/bangumis/index.html</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bilibili/config.json</loc>
+    <loc>https://guiyinlun.com/bilibili/config.json</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bilibili/all.json</loc>
+    <loc>https://guiyinlun.com/bilibili/all.json</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bilibili/watched/0.json</loc>
+    <loc>https://guiyinlun.com/bilibili/wantWatch/0.json</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bilibili/wantWatch/0.json</loc>
+    <loc>https://guiyinlun.com/bilibili/watched/0.json</loc>
     
     <lastmod>2023-09-08</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/post/4a17b156.html</loc>
+    <loc>https://guiyinlun.com/post/4a17b156.html</loc>
     
     <lastmod>2023-09-06</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/comments/index.html</loc>
+    <loc>https://guiyinlun.com/comments/index.html</loc>
     
     <lastmod>2023-09-06</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://guiyinlun.com/categories/index.html</loc>
     
     <lastmod>2023-09-06</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://guiyinlun.com/music/index.html</loc>
     
     <lastmod>2023-09-05</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://guiyinlun.com/pwa/manifest.json</loc>
     
     <lastmod>2023-09-01</lastmod>
     
@@ -174,7 +174,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://guiyinlun.com/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -182,84 +182,84 @@
 
   
   <url>
-    <loc>http://example.com/tags/Effective-C/</loc>
+    <loc>https://guiyinlun.com/tags/Effective-C/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/C/</loc>
+    <loc>https://guiyinlun.com/tags/C/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://guiyinlun.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Git/</loc>
+    <loc>https://guiyinlun.com/tags/STL/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://guiyinlun.com/tags/%E5%AE%B9%E5%99%A8/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
+    <loc>https://guiyinlun.com/tags/hello-world/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hello-world/</loc>
+    <loc>https://guiyinlun.com/tags/hexo/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>https://guiyinlun.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://guiyinlun.com/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/STL/</loc>
+    <loc>https://guiyinlun.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AE%B9%E5%99%A8/</loc>
+    <loc>https://guiyinlun.com/tags/Git/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://guiyinlun.com/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -268,21 +268,21 @@
 
   
   <url>
-    <loc>http://example.com/categories/C/</loc>
+    <loc>https://guiyinlun.com/categories/C/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Git/</loc>
+    <loc>https://guiyinlun.com/categories/hexo/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/hexo/</loc>
+    <loc>https://guiyinlun.com/categories/Git/</loc>
     <lastmod>2023-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
